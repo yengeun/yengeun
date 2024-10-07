@@ -1,5 +1,5 @@
-![love](https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a)
-
+<img src="![love](https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a)
+" width="200" height="400"/>
 <!--타이틀 부분
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
