@@ -1,8 +1,8 @@
 <div align = "center">
   <img src="https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a" width="50%" height="350"/>
 </div>
-<div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yengeun&layout=compact">
+<div display = "flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yengeun&layout=compact">
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/yengeun"
@@ -22,16 +22,19 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/styled-components-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
+
 </div>
 
-<div align="center">
+<div align="left">
   <img src=="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/Unity-FAFAFA.svg?style=for-the-badge&logo=Unity&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </div>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> 
 </div>
 
@@ -39,7 +42,9 @@
 
 <h3 align="left">📚 Studying 📚</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springbooto&logoColor=white" />
+
 </div>
 
 <br>
