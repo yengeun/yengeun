@@ -1,6 +1,9 @@
 <div align = "center">
   <img src="https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a" width="50%" height="350"/>
 </div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yengeun}?pet-id=1" width="1000" height="120"/>
+</a>
 <!--타이틀 부분
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
