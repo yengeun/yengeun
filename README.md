@@ -29,12 +29,10 @@
 </div>
 
 <div align="left">
-  <img src=="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src=="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Unity-FAFAFA.svg?style=for-the-badge&logo=Unity&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-</div>
-<div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a> 
 </div>
 
