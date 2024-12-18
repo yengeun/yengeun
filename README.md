@@ -1,12 +1,14 @@
 <div align = "center">
   <img src="https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a" width="50%" height="350"/>
 </div>
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yengeun"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/yengeun"
+    width="600"
+    height="300"
+  />
+</a>
 </a>
 <!--타이틀 부분
 <div align="center">
