@@ -1,7 +1,5 @@
-<div align = "center">
-  <img src="https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a" width="50%" height="350"/>
-</div>
-<div display = "flex">
+<div align = "center" display = "flex">
+  <img src="https://github.com/user-attachments/assets/c5822b25-6769-401e-8575-0710e2d2f01a" width="50%" height="50"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yengeun&layout=compact">
   <a href="https://github.com/devxb/gitanimals">
     <img
