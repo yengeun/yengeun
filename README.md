@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=Raspberry Pi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=RaspberryPi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
 </div>
 
